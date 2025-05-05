@@ -1,3 +1,3 @@
-![Условие](condition.png)
+![Условие](condition1.jpg)
 
-[Решение](solution.py)
+[Решение](brain_signals_1_ver2.ipynb)
